@@ -30,6 +30,7 @@ build/[Bb]in/
 build/[Oo]bj/
 build/[Ll]og/
 build/[Ll]ogs/
+build/src/ext/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
